@@ -1,6 +1,6 @@
 # Resize Mode #
 
-[![Build Status](https://travis-ci.org/dpsutton/resize-window.svg)](https://travis-ci.org/dpsutton/resize-window)
+[![Build Status](https://travis-ci.org/mehw/resize-window.svg?branch=mods-and-fixes_travis)](https://travis-ci.org/mehw/resize-window)
 [![Coverage Status](https://coveralls.io/repos/dpsutton/resize-window/badge.svg?branch=master&service=github)](https://coveralls.io/github/dpsutton/resize-window?branch=master)
 [![MELPA](http://melpa.org/packages/resize-window-badge.svg)](http://melpa.org/#/resize-window)
 [![MELPA stable](http://stable.melpa.org/packages/resize-window-badge.svg)](http://stable.melpa.org/#/resize-window)
